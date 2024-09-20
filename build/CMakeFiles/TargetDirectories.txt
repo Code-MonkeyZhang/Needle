@@ -1,0 +1,6 @@
+/home/yufeng/Workspace/Needle/build/CMakeFiles/ndarray_backend_cpu.dir
+/home/yufeng/Workspace/Needle/build/CMakeFiles/ndarray_backend_cuda.dir
+/home/yufeng/Workspace/Needle/build/CMakeFiles/edit_cache.dir
+/home/yufeng/Workspace/Needle/build/CMakeFiles/rebuild_cache.dir
+/home/yufeng/Workspace/Needle/build/3rdparty/pybind11/CMakeFiles/edit_cache.dir
+/home/yufeng/Workspace/Needle/build/3rdparty/pybind11/CMakeFiles/rebuild_cache.dir
